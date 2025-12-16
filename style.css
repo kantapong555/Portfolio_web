@@ -383,7 +383,7 @@ article #portfolio-info {
   border:1px solid #04c43d;
   border-radius: 50%;
   width: 100px;
-  text-align: left;
+  text-align: center;
 }
 
 .portfolio-project a {
@@ -400,4 +400,5 @@ article #portfolio-info {
 .portfolio-project a:hover  {
   color: #fff;
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+
 }
